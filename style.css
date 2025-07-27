@@ -1,0 +1,20 @@
+body {
+  background-color: #f4f7fa;
+}
+
+.card-img-top {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.btn-sm {
+  margin-right: 5px;
+}
+
+#success-alert {
+  margin-bottom: 0;
+}
